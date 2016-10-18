@@ -1,0 +1,11 @@
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\bin\Debug\Client Experiment.exe.config
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\bin\Debug\Client Experiment.exe
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\bin\Debug\Client Experiment.pdb
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\obj\Debug\Client Experiment.csprojResolveAssemblyReference.cache
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\obj\Debug\Client Experiment.exe
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\obj\Debug\Client Experiment.pdb
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\bin\Debug\Hl7.Fhir.DSTU2.Core.dll
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\bin\Debug\Hl7.Fhir.DSTU2.Core.pdb
+C:\Users\nicho\Dropbox\Computing\Thesis\Implementations\Client Experiment\Client Experiment\bin\Debug\Hl7.Fhir.DSTU2.Core.xml
